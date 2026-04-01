@@ -1,16 +1,21 @@
-## Hi there 👋
+📄 lalesucu / README.md
 
-<!--
-**lalesucu/lalesucu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lale 👋
 
-Here are some ideas to get you started:
+## 🔗 Building on Arc Network
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+arc_stack = ["USDC native gas", "CCTP", "Circle SDK"]
+
+focus   = "Stablecoin-native financial apps"
+
+lang    = ["Solidity", "Rust", "TypeScript"]
+
+status   = "Deploying on Arc testnet 🚀"
+
+## 📌 Currently
+
+# → Mainnet hazırlıkları için Arc L1 üzerinde deploy
+
+# → DeFi lending protocol audit (Q2 2025)
+
+# → Arc Community moderatörü
